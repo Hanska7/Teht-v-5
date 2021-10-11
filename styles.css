@@ -39,9 +39,10 @@ section {
 }
 
 #Henri {
-    width: 100px;
-    height: 75px;
+    width: 10000px;
+    height: 10000px;
 
+    background-size: cover;
     background-image: url("Kuvakansio/MonsterE.jpg");
 
 }
