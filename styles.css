@@ -41,6 +41,7 @@ section {
 #Henri {
     width: 900px;
     height: 900px;
+    color: blue;
 
     background-size: cover;
     background-image: url("Kuvakansio/MonsterE.jpg");
